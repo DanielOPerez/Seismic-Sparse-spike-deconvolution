@@ -1,0 +1,7 @@
+filename_in= prueba.sgy
+filename_out= ss_stack.sgy
+filename_wav= wavelet
+lambda= 0.1
+itmax= 2000
+cut_msft= -0.9
+o_prt= 100
